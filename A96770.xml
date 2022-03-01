@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon the Armies Remonstrance, delivered to the House of Commons, Monday, 20. November, 1648. In vindication of the Parliaments treaty with the King in the Isle of Wight.</title>
+            <author>Walker, Clement, 1595-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96770</idno>
+            <idno type="STC">Wing W319</idno>
+            <idno type="STC">Thomason E570_3</idno>
+            <idno type="STC">ESTC R204237</idno>
+            <idno type="EEBO-CITATION">99863891</idno>
+            <idno type="PROQUEST">99863891</idno>
+            <idno type="VID">165337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165337)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E570[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon the Armies Remonstrance, delivered to the House of Commons, Monday, 20. November, 1648. In vindication of the Parliaments treaty with the King in the Isle of Wight.</title>
+                  <author>Walker, Clement, 1595-1651.</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Clement Walker.</note>
+                  <note>A reply to: A remonstrance of His Excellency Thomas Lord Fairfax, Lord General of the Parliaments forces. And of the generall councell of officers held at St Albans the 16. of November, 1648.</note>
+                  <note>The last leaf bears "Prolegomena".</note>
+                  <note>Annotation on Thomason copy: "1649". The 8 has been crossed out and the date altered to 1649.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Council. --  Remonstrance of His Excellency Thomas Lord Fairfax, Lord General of the Parliaments forces. And of the generall councell of officers held at St Albans the 16. of November, 1648.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165337:1" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS UPON THE <hi>ARMIES REMONSTRANCE,</hi> DELIVERED To the HOUSE of COMMONS, Monday, 20. <hi>November,</hi> 1648.</p>
+            <p>In vindication of the PARLIAMENTS TREATY with the KING in the <hi>Jſle of Wight.</hi>
+            </p>
+            <q>
+               <l>Turpe eſt Doctori cum culpa redarguit ipſum.</l>
+            </q>
+            <q>
+               <l>Clodius accuſat Maechos, Catelina Cethegum.</l>
+               <l>In tabulam Syllae dicunt ejus diſcipuli tres.</l>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:165337:2"/>
+            <pb n="1" facs="tcp:165337:2"/>
+            <head>ANIMADVERSIONS <hi>UPON</hi> The ARMIES REMONTRANCE, <hi>DELIVERED</hi> To the Houſe of Commons, Monday, 20. <hi>November,</hi> 1648.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout <hi>May</hi> 1647. The 2 Houſes in a full and free Parliament took into conſideration how to eaſe the people of their Taxes; in order whereto they ordained the Disbanding this Army (6000 or 7000 onely excepted to ſuppreſſe Inſurrecti<g ref="char:EOLhyphen"/>ons in <hi>England,</hi> and the reſt to be ſent to the re<g ref="char:EOLhyphen"/>lief of <hi>Ireland</hi>) 200000<abbr>l.</abbr> was provided for this worke, for the reſt of their Arreares they were to have unqueſtionable ſecurity. Lieutenant Generall <hi>Cromwell</hi> ſubtilly encouraged the Houſe of Commons to this reſolution, with intent rather to diſcontent, then disband the Army (which hates nothing more then diſ<g ref="char:EOLhyphen"/>banding, and returning to their old Trades) and then to make uſe of their diſcontents againſt the Authours of this counſell, be<g ref="char:EOLhyphen"/>ing men of different principles and intereſts from himſelf.</p>
+            <p>To carry on which deſigne, he, and his Son <hi>Ireton</hi> upon the 4 &amp; 5 of <hi>June,</hi> by their <hi>Agitators,</hi> (men whoſe publique ſpirits they abuſed for private ends,<note place="margin">Book of Decl. p. 22. Solem: Engagement.</note> and at laſt caſt them off) <hi>cauſed the Army to enter into an Engagement</hi> (in oppoſition to the ſaid Or<g ref="char:EOLhyphen"/>dinance) <hi>not to diſband, nor to divide.</hi>
+            </p>
+            <p>
+               <hi>June</hi> 23. at Saint <hi>Albans,</hi> the Army Declared,<note place="margin">Book of Decl. p. 39.</note> 
+               <hi>That their re<g ref="char:EOLhyphen"/>ſpects to the Peoples Safety inforced them to admit of no longer de<g ref="char:EOLhyphen"/>laies
+<pb n="2" facs="tcp:165337:3"/> then foure or five daies, wherein the Houſe ſhould give aſſu<g ref="char:EOLhyphen"/>rance to them and the People of a ſafe and ſpeedy proceeding to ſettle the Armies,</hi>
+               <note place="margin">Pag. 67.</note> 
+               <hi>and the Kingdomes rights, and freedomes.</hi>
+            </p>
+            <p>After this, <hi>Cromwell</hi> plotted the ſecuring of <hi>Oxford,</hi> and the ſurprizing of the <hi>Kings</hi> Perſon by his inſtrument <hi>Joyce:</hi> and when <hi>Joyce</hi> told him, <hi>he had the King in his power, Then</hi> (quoth <hi>Crom<g ref="char:EOLhyphen"/>well) I have the Parliament in my pocket.</hi>
+            </p>
+            <p>In farther proſecution of which deſigne, to pull downe their oppoſite Faction: They cauſed an <hi>Impeachment</hi> in the name of Sir <hi>Tho: Fairfax</hi> and the <hi>Army,</hi>
+               <note place="margin">Putney Pro<g ref="char:EOLhyphen"/>jects, p. 8.9.</note> (in generall Tearmes onely, for the particular matters of their Charge was to ſeeke, after they had in generall charged them) to be ſent to the Houſe of Com<g ref="char:EOLhyphen"/>mons againſt <hi>eleven</hi> of their Members <hi>for ſome things done in the Houſe,</hi> as <hi>That by their power they cauſed the Ordinance for Diſ<g ref="char:EOLhyphen"/>banding the Army to paſſe,</hi> &amp;c. <hi>and for ſome things done out of the Houſe,</hi> which had been formerly examined and cleared by the Houſe: <hi>As Correſponding with the King,</hi> &amp;c. In the 2, 3, &amp; 4. Ar<g ref="char:EOLhyphen"/>ticle of which Charge, <hi>they profeſſe themſelves diſobliged and diſ<g ref="char:EOLhyphen"/>couraged from any farther Engagement in the Parliaments Service.</hi> And indeed, they have ſince carried themſelves as if they were diſobliged: for,</p>
+            <p n="1">1. <hi>They demanded the Houſe to ſuspend the ſaid</hi> 11 <hi>Members from ſitting:</hi> Whereupon, the Houſe voted, 25. <hi>June. That by the Lawes of the Land no Judgment for their ſuspention could be given upon that generall Charge, before particulars produced, and proofs made:</hi> the Army thereupon, threatned to <hi>march up to Weſtmin<g ref="char:EOLhyphen"/>ſter, unleſſe they were ſuspended:</hi> whereby they were enforced to forbeare the Houſe.</p>
+            <p n="2">2. They courted the people by <hi>undertaking to ſettle Peace, to eſtabliſh the Kings intereſt, and all other juſt intereſts:</hi> and invited the People <hi>to make Addreſſes to the Army by Petitions againſt their grievances:</hi> to which they gave Anſwer, That, <hi>This and This is the ſenſe of the Army:</hi>
+               <note place="margin">The Declar. a<g ref="char:EOLhyphen"/>gainſt the Ar<g ref="char:EOLhyphen"/>my as Enemies to the State un<g ref="char:EOLhyphen"/>voted, Put. Pro. p. 9. ſee Repreſ: <hi>June</hi> 4.5. B. of Decl. p. 33, 34.</note> as if their ſenſe were the ſupreame Law.</p>
+            <p n="3">3. They <hi>compell</hi> the Parliament to <hi>unvote</hi> ſome of their Votes, and afterwards reproach them for their <hi>inconſtancy</hi> in their Prin<g ref="char:EOLhyphen"/>ted Papers.</p>
+            <p n="4">4. They turne the Councel of Warre, into a Councel of State; and there debate and reſolve all Publique Affaires, as if they were
+<pb n="3" facs="tcp:165337:3"/> another Parliament, judging of all Publique Intereſts, and Safety of the Kingdome; The Prerogative of the King: Fundamentals of Parliament: and Lawes of the Land: as if they would <hi>(legem dare)</hi> impoſe Lawes upon the Land: for (I am ſure) they are not learned enough <hi>(legem dicere)</hi> to expound the Law.</p>
+            <p n="5">5. They march like Conquerours through <hi>London,</hi>
+               <note place="margin">Put: Proj: p. 9.</note> fright away many Members of Parliament, throw downe their defenſive Works, ſet Guards upon the Houſes, &amp;c.</p>
+            <p n="6">6. They obey Ordinances of Parliament but at their owne diſcretion. The Houſes Voted the Disbanding of <hi>Supernumera<g ref="char:EOLhyphen"/>ries:</hi> They colluſorily Disband ſome in one place, and take them in againe in another: and (by way of Bargaine, as it were) they lately demanded 3000. of them to be added to the eſtabliſhed Army which is already above 27000 men, and hath an eſtabliſhed pay of 60000<abbr>l.</abbr> ſterling a Month; a far greater pay, and better paid then any Army of Chriſtendome of the like number hath: and yet they have often demanded an addition of 20000<abbr>l.</abbr> a Month more, and did demand a weekly Tax for <hi>Fire and Candle,</hi> and doe take <hi>free quarter.</hi> And though the Houſes have voted the diſgarriſoning of divers inland Garriſons for eaſe of the People, yet they are not obeyed: for now (as <hi>Putney Projects</hi> ſay, <hi>pag.</hi> 9.) <hi>The Parliament trembles at the ſhaking of their rod, and every of their deſires to the Houſe is a</hi> Mandamus; <hi>both King and Parliament being ſubjected to their beck.</hi>
+            </p>
+            <p n="7">7. And laſtly, though they Declare, <hi>June</hi> 14. 1647. <hi>That they continued in Armes, in Judgement and Righteouſneſſe, for the ends ſpecified in the Parliaments Declarations:</hi> and were not ignorant, <hi>The Parliament ſundry times declared the intent of their War to be for removing evill Counſellors from the King,</hi>
+               <note place="margin">1 Part Exact Col: p. 118. 632</note> 
+               <hi>and for preſervation and defence of His Perſon, Crowne, and Dignity, &amp;c.</hi> Yet having the KING in their cuſtody at <hi>Hampton-Court,</hi> they opened a free way of acceſſe to him for many the moſt malignant of his party: As Mr. <hi>John Aſhburnham,</hi>
+               <note place="margin">The Machia<g ref="char:EOLhyphen"/>vilian Crom<g ref="char:EOLhyphen"/>welliſts.</note> whom <hi>Cromwell</hi> (whoſe pulſe about this time beat a Lordly pace, as one of their owne pen-men ſaith) and <hi>Ireton</hi> ſent for out of <hi>France.</hi> Col: <hi>William Leg,</hi> whom they cauſed to be admitted of the Kings Bed-chamber. Sir <hi>Will: Ford,</hi> a Papiſt, <hi>Iretons</hi> Brother-in-law, and Major <hi>Boſwell,</hi> both of them reſident for the King in the Army to corrupt the Souldiery, and
+<pb n="4" facs="tcp:165337:4"/> many more, by whoſe mediation they entertained correſpon<g ref="char:EOLhyphen"/>dence with the King himſelfe, and had their ſet-dayes of writing Letters into <hi>France</hi> and <hi>Holland</hi> concerning an Accommodation. And the better to mould the Souldiery to their deſignes, they in<g ref="char:EOLhyphen"/>rolled many Cavaliers in the Army, who cryed out at <hi>Ware,</hi>
+               <note place="margin">Charge againſt 11 Members. Book of Decla. page 112.</note> 
+               <hi>For the King and Sir Thomas:</hi> And yet they called M. <hi>Hollis</hi> his correſpondence with the King, <hi>A breach of truſt, a breach of his Oath, taken in</hi> June 1643. <hi>a breach of the Parliaments Ordi<g ref="char:EOLhyphen"/>nance in</hi> October 1643. <hi>and no leſſe then Treaſon.</hi>
+            </p>
+            <p>
+               <note place="margin">Book of Decla<g ref="char:EOLhyphen"/>ration. pag. 112</note>At this time <hi>Ireton</hi> framed the <hi>Propoſals at Colebrook,</hi> which, as they ſay, contained the particulars of their deſires in order to the clearing and ſecuring the Rights and Liberties of the peo<g ref="char:EOLhyphen"/>ple, and ſetling a laſting Peace. By theſe Propoſalls the founda<g ref="char:EOLhyphen"/>tions of the peoples Freedome were undermined, and the Kings Intereſt ſupported; as <hi>Putney projects, pag.</hi> 13. ſaid, where it is believed they paſſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Generall Councell. And it is there affirmed, that they paſſed the Kings file, who moved for a Per<g ref="char:EOLhyphen"/>ſonall Treaty upon them. <hi>Ireton,</hi> in a private Conference, ha<g ref="char:EOLhyphen"/>ving promiſed the King a Copy of them, which was ſent by Major <hi>Huntington,</hi> and returned with the Kings croſſes and ſcratches upon them with His own pen.<note place="margin">page 14.</note> At laſt Sir <hi>John Berkley,</hi> and <hi>Aſhburnham,</hi> brought the Kings Anſwer to them at <hi>Cole<g ref="char:EOLhyphen"/>brook, Auguſt</hi> 1. and the Propoſalls bear date <hi>Auguſt</hi> 2. and the Propoſalls were altered in five or ſix Particulars, nearly rela<g ref="char:EOLhyphen"/>ting to the Kings Intereſt.</p>
+            <p>But now let us collect ſome few <hi>ſhort Obſervations</hi> out of the Papers, and the ſaid Propoſalls of the Army; that by comparing them with the preſent Propoſitions ſent to the <hi>Iſle</hi> of <hi>Wight</hi> by the Parliament, it may appear whether the Army that hath no Authority, or the Parliament that hath Authority, to Treat with the King, have beſt provided for a ſafe and well-groun<g ref="char:EOLhyphen"/>ded Peace, with preſervation of our Religion, Lawes and Liber<g ref="char:EOLhyphen"/>ties.</p>
+            <p>
+               <note place="margin">Book of Decla<g ref="char:EOLhyphen"/>ration. pag. 45.</note>In the Repreſentation of the Army, <hi>June</hi> 14. 1647. this is ſet downe as the 8. propoſall for Peace: <hi>That (publique Juſtice being firſt ſatisfied by ſome few examples to poſterity, out of the worſt excepted perſons, and other Delinquents, having made their Compo<g ref="char:EOLhyphen"/>ſitions) ſome courſe may be taken for a generall Act of Oblivion;
+<pb n="5" facs="tcp:165337:4"/> whereby the ſeeds of Warre, &amp;c. may be the better taken away.</hi>
+            </p>
+            <p n="1">1. Obſervation. <hi>The wiſdome of Parliament thought it not fit to disparage their righteous cauſe by propounding an Act of Oblivion; but when the King freely offered it, and made it a propoſall on his part, they accepted it, reſerving a power to them<g ref="char:EOLhyphen"/>ſelves to adde what exceptions and limitations to it, the two Houſes ſhould think fit.</hi>
+            </p>
+            <p>In the Remonſtrance of the Army preſented to the Parlia<g ref="char:EOLhyphen"/>ments Commiſſioners at S. <hi>Albans, June</hi> 23. 1647.<note place="margin">page 64.</note> They declare their principles to be moſt cleerly for a generall Right, and juſt freedome to all: and therefore declare particularly, <hi>That they deſire the ſame for the King and others of His party, (ſo farre as can conſiſt with common Right and Freedome, and the ſecurity of the ſame for the future.)</hi> And they doe clearly profeſſe they doe not ſee how there can be any peace to the Kingdome firme and laſting, without a due conſideration of, and proviſion for the Rights, quiet and immunity of His Majeſties Royall Family, and his late partakers: and herein they think that tender and equitable dea<g ref="char:EOLhyphen"/>ling (as ſuppoſing their cauſe had been ours) and a ſpirit of com<g ref="char:EOLhyphen"/>mon love and juſtice, diffuſing it ſelfe to the good and preſerva<g ref="char:EOLhyphen"/>tion of all, will make up the moſt glorious conqueſt over their hearts, to make them and the whole people of the Land laſting friends.</p>
+            <p n="2">2. Obſervation. <hi>What more could the Parliament ſay?</hi>
+               <note place="margin">Peruſe the Pro<g ref="char:EOLhyphen"/>poſitions ſent to the <hi>Iſle</hi> of <hi>Wight.</hi>
+               </note> 
+               <hi>What more hath the Parliament done for the King and his party in their Perſonall Treaty with the King at the Iſle of Wight, for a ſafe and well-grounded Peace, then here the Army prompts them to? Or how hath the King deſerved worſe of the Kingdome ſince the Army hunted Him from Hampton-court into their Purſe-net at Carisbrooke-Caſtle, where He hath been watched, and kept in ſo ſtrict and limited a condition, that He could neither act nor negotiate any thing? But (The Ar<g ref="char:EOLhyphen"/>mies Scout ſaith) the Grandees of the Armies Faction are exaſperated againſt him for rejecting their offers laſt yeare, and his adherence to the Scottiſh intereſt: and therefore at the lat<g ref="char:EOLhyphen"/>ter end of his foule ſheet the Scout hath this Diſtich,</hi>
+               <pb n="4" facs="tcp:165337:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:165337:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <q>
+                  <pb n="6" facs="tcp:165337:6"/>
+                  <l>Oh <hi>Charles,</hi> old <hi>Nol</hi> (thy terrour) now draws nigh,</l>
+                  <l>If thou wilt ſave thy necke, haſt, haſt, to flie.</l>
+               </q>
+            </p>
+            <p>
+               <note place="margin">Book of Decl. p. 75.</note>In a Letter from Sir <hi>Thomas Fairfax</hi> to both Houſes, giving an account of the tranſactions between His Majeſty, and the Army, (bearing date, <hi>Reading, July</hi> 6. 1647.) He ſaith, <hi>We con<g ref="char:EOLhyphen"/>ceive that to avoid all harſhneſſe, and to afford all kind uſage to His Majeſties Perſon, in things conſiſting with the peace and ſafety of the Kingdome; is the moſt Chriſtian, honourable and prudent way: and in all things</hi> (as the <hi>Repreſentation</hi> and <hi>Remonſtrance</hi> of the Army doth expreſſe) <hi>we thinke that tender, equitable, and moderate dea<g ref="char:EOLhyphen"/>ling, both towards His Majeſty, His Royall Family, and late Party, (ſo farre as may ſtand with the ſafety of the Kingdome, and ſecurity of our common Rights and Liberties) is the moſt hopefull courſe to take away the ſeeds of Warre,</hi> &amp;c. <hi>and to procure a laſting peace, and a Government in this distracted Nation.</hi>
+            </p>
+            <p n="3">3. Obſervation. <hi>But the Army hath ſince found New Lights: yet theſe plauſible pretences of the Army to reſtore Peace and Government by ſetling the Kings, and all juſt Rights, kept the People hitherto quiet, and made them with hope and patience to beare Taxes to the Army and Free quarter, whereby many of their backs were broken, and all galled: untill they found the Army to lay by theſe principles, and to make uſe of the good o<g ref="char:EOLhyphen"/>pinion they had got onely by them, to ſuppreſſe and deſtroy all that laboured for peace and eaſe of the people; both Petitioners and Members of Parliament to keep themſelves ſtill in pay, and pur<g ref="char:EOLhyphen"/>ſue their owne profit, and preferment, then finding themſelves cheated, deſpaire thruſt them raſhly into Armes in</hi> Wales, Kent, Eſſex, &amp;c. <hi>where their ſucceſſe was ſuitable to their diſcretion, whereof the Faction of the Army doe now take advantage to lay their owne baſtard at other mens dores, as if all this were done by deſigne of a Party in Parliament and City. But Peace and an Army are as inconſiſtent together as light and darkneſſe.</hi>
+            </p>
+            <p>In the Propoſals of the Army, 1 <hi>Aug.</hi> 1647. they propound,</p>
+            <p n="14">14. <hi>That (things before propoſed being provided for ſecuring the Rights, Liberties, and Safety of the Kingdome.) His Majeſties
+<pb n="7" facs="tcp:165337:6"/> Perſon, Queen, and Royall iſſue may be reſtored to a condition of Safety, Honour, and Freedome in this Nation, without diminution of their perſonall Rights, or farther limitation to the exerciſe of the Regall power, then according to the particulars aforegoing.</hi>
+            </p>
+            <p n="4">4. Obſervation. <hi>You ſee the City in their Engagement, and the Parliament borrowed from the Army, that phraſe they now ſo much cry out upon,</hi> of reſtoring the King, with Ho<g ref="char:EOLhyphen"/>nour, Freedome and Safety.</p>
+            <p n="15">15. For Compoſitions, The Army propounds, <hi>That a leſſer number out of the perſons excepted in the two firſt Qualifications, (not exceeding five for the Engliſh) being nominated particularly by the Parl. who (together with the perſons in the</hi> Iriſh <hi>Rebellion included in the third Qualification) may be reſerved to the farther Judgement of the Parliament as they ſhall ſee cauſe: all other per<g ref="char:EOLhyphen"/>ſons may be admitted to Compoſition. That the rates for all future Compoſitions may be leſſened, &amp;c. and no compounder enjoyned to take the Nationall Covenant.</hi>
+            </p>
+            <p n="5">5. Obſerva. <hi>You ſee the Army more remiſſe in exacting Juſtice then the Parliament, who have excepted ſeven</hi> Engliſh <hi>clearly out of mercy, which is more then to reſerve them unto farther Juſtice, as they ſhall ſee cauſe: and all men to be enjoyned by Act of Parliament to take the Covenant.</hi>
+            </p>
+            <p>The Army propounds,<note place="margin">Putney Proj. pag. 14.</note> 
+               <hi>That all that have been in hoſtility againſt the Parliament, be incapable of bearing Office of publique truſt, or power for five yeares.</hi> But it was added (after the great Offi<g ref="char:EOLhyphen"/>cers intercourſe with the King) <hi>That the Councell of State ſhould be enabled to admit them to ſuch Offices before thoſe five yeares expired.</hi>
+            </p>
+            <p n="6">6. Obſervation. <hi>The Parliament hath reſerved to themſelves the gifts of all Great Offices in</hi> England <hi>and</hi> Ireland <hi>for</hi> 20. <hi>yeares, and diſabled Delinquents in Armes to be Sheriffes, Juſtices of the Peace, &amp;c.</hi>
+            </p>
+            <pb n="8" facs="tcp:165337:7"/>
+            <p>
+               <note place="margin">pag. 15.</note>The Army propounded, <hi>Only that the Coercive Power, and Juriſdiction of Biſhops, extending to Civill Puniſhments upon any, may be aboliſhed and demanded, nothing for paſſing an Act for ſale of Biſhops Lands; although at laſt they encouraged the Parliament to ſell them. But according to their Propoſals for Peace, the King was firſt to be re-eſtabliſhed with His Negative voice.</hi>
+            </p>
+            <p n="7">7. Obſervation. <hi>The Parliament propounds the utter Aboliſh<g ref="char:EOLhyphen"/>ing of Epiſcopacy, and Biſhops for ever: and an Act for alie<g ref="char:EOLhyphen"/>nating their Lands for ever.</hi>
+            </p>
+            <p>The Army propounded, <hi>The Militia ſhould be for ten yeares only, in the diſpoſe of the Parliament, and afterwards, this preſent King not to diſpoſe thereof without conſent of Parliament.</hi>
+            </p>
+            <p n="8">8. Obſervation. <hi>The Parliament propounds the Militia of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>and</hi> Ireland, <hi>by Land and Sea, with all Forts, Caſtles, Garriſons, to be in the Parliament alone for twenty yeares, from</hi> 1 July, 1646. <hi>And after the ſaid twenty yeares, neither the King, His Heires, nor Succeſſors to diſpoſe thereof without conſent of Parliament, &amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">Putney Project pag. 43.</note>Theſe <hi>Propoſals of the Army</hi> being obtruded at laſt, upon the Houſe, a conteſt grew, <hi>Whether they, or the Propoſitions formerly ſent to New-Caſtle ſhould be ſent to the King at Hampton-Court.</hi> At laſt it was concluded to ſend the <hi>Propoſitions</hi> of <hi>New-Caſtle,</hi> But the King knew, that neither the Grandees in Parlia. or Army, in<g ref="char:EOLhyphen"/>tended they ſhould be aſſented to, being inconſiſtent with their Independent intereſts; but they were ſent only to uſher in the Kings deſire of a <hi>Perſonall Treaty</hi> upon the Propoſals of the Army: which the King had made known before hand ſhould be <hi>His Anſwer.</hi> And when His Anſwer was Voted in the Houſe of Commons to be a <hi>deniall,</hi> and debated hotly, whether any more <hi>Addreſſes ſhould be made to the King;</hi> at laſt a Member of the Houſe produced a reaſon as ſharp and weighty, as <hi>Goliahs ſword. It is the ſenſe of the Army</hi> (quoth he) <hi>that a farther Ad<g ref="char:EOLhyphen"/>dreſſe be made to the King.</hi> And <hi>Ireton</hi> himſelf told them, <hi>he could not promiſe them the Armies aſſiſtance if they ceaſed their
+<pb n="9" facs="tcp:165337:7"/> Addreſſes to the King:</hi> whereupon, being bruited abroad, that <hi>the Army</hi> had <hi>compelled the Parliament to make farther Addreſſes to the King,</hi> and to ſend <hi>part,</hi> or <hi>all</hi> of their <hi>Propoſals as</hi> the <hi>grounds</hi> of <hi>Peace:</hi> very many of the Army declared openly againſt it: and many Speeches in their Councell reflected upon <hi>Ireton,</hi> for <hi>abuſing the Army</hi> therein. So their hopes in this policy vaniſhed, like the hopes of an <hi>Alchimiſt.</hi>
+            </p>
+            <p>I could proceed much farther with theſe parallel Obſervati<g ref="char:EOLhyphen"/>ons; but I have little leaſure, and peradventure Reader, thou haſt little money to lay out upon Books; and I deſire to open thy eyes as good cheap as may be. But the <hi>Armies Remonſtrance</hi> preſented to the Houſe, 20 <hi>November,</hi> pag. 43. 44. ſaith, <hi>Theſe Compliances of their part were only Negative:</hi> what I have ſaid already doth ſufficiently confute this excuſe. It farther ſaith, <hi>they complied with the King through example, to prevent others from ſtrengthening themſelves that way:</hi> meaning M. <hi>Hollis,</hi> &amp;c. which was examined by the Parliament, and he acquitted there<g ref="char:EOLhyphen"/>of; and though the Army (not reſting in the Judgement of the Parliament, as by their own profeſſion they ought to doe) charged him again herewith in their Impeachment of the eleven Members: yet they never proceeded to prove it. See <hi>Putney Project.</hi> pag. 8.</p>
+            <p>You ſee that <hi>Priviledges,</hi> and <hi>Commands</hi> of <hi>Parliament,</hi> nay their own <hi>promiſes</hi> are no more to the Grandees of the Army, (ſince they declared, <hi>the Parliament had diſobliged them</hi>) then the <hi>Philiſtines withes</hi> to <hi>Sampſon.</hi> Did they not command the Com<g ref="char:EOLhyphen"/>mons by a ſet day to caſt out the Faction that overtopped them, to recall their Declaration againſt them; whereby in full and free Parliament they were declared Enemies? to provide them pay? to own them for their Army? Have they not contrary to the Parliaments Orders admitted Cavaliers to the King? made Addreſſes to Him? Quartered round a<g ref="char:EOLhyphen"/>bout <hi>London</hi> after the Parliament Commanded them to Quarter fourty miles off, which Order is ſtill in force? Have they not <hi>promiſed and engaged to acquieſce in the Judgement of Parliament?</hi>
+               <note place="margin">Declaration 14 <hi>June</hi> 1647.</note> And did they not a year ſince, keep a day of Humiliation at <hi>Windſor</hi> to implore Gods mercy for their former inſolency to the Parliament, and promiſing more obedience hereafter?
+<pb n="10" facs="tcp:165337:8"/> Have they not declared that it was proper for them to act onely in their owne ſpheare as Souldiers, and not to intermeddle with affaires of State, which concerne the Parliament? Why then doe they interrupt the Parliaments Treaty with the King in the <hi>Iſle of Wight?</hi>
+               <note place="margin">Declaration 14 <hi>June</hi> 1647.</note> Why did they 20. <hi>Novemb.</hi> 1648. ſend a peremptory Remonſtrance to the Parliament, (inſtead of an humble Petition) charging them with <hi>weakneſſe, inconſtancie,</hi> and <hi>breach of truſt</hi> in the ſame Treaty, and magnifying their owne wiſdome and inte<g ref="char:EOLhyphen"/>grity above theirs; and that in ſuch Magiſteriall, and cenſorious language, as if the Tables were turned, and they were the Parli<g ref="char:EOLhyphen"/>ament, and the Two Houſes but a Councell of the Army. I will continue the method I have begun, and make ſome few, ſudden Obſervations upon this <hi>Remonſtrance,</hi> as I have formerly done upon the <hi>Armies Propoſals:</hi> and leave the fuller anſwering there<g ref="char:EOLhyphen"/>of to ſome better Pen, that hath more leiſure and abilities then my ſelfe.</p>
+            <p>Objections in the Remonſtrance, delivered 20. <hi>November,</hi> againſt the Parliament and Treaty.</p>
+            <p n="1">
+               <note place="margin">Remonſtrance, pag. 7, 8, 9.</note>1. The Army Objects, the Votes of the Houſes <hi>for no more Addreſſes to the King.</hi> Charging the Houſes with <hi>inconſtancy in retracting them: and thereby putting the people into an unſetled con<g ref="char:EOLhyphen"/>dition; and ſtirring them to Petition for a Perſonall Treaty, and at laſt to riſe in Armes for it,</hi> and alledgeth <hi>the Houſe was free at the paſſing thoſe Votes.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. The ſaid Votes for <hi>no more Addreſſes to the King;</hi> were contrived in private, betweene the Independent Gran<g ref="char:EOLhyphen"/>dees of the Houſes and Army: and then impoſed upon the Houſe of Commons, after many of their Members were frighted away by blanke Impeachments in the Houſe, and by the Armies hovering about the Towne to back their own party,<note place="margin">Putney Proj. pag. 43.</note> and ſuppreſſe all men of contrary judgment. Not were the debates in the Houſe free, <hi>Ireton</hi> leading the Van in the debate, and telling them the ſence of the Army (which uſually leadeth every reaſon captive.) That <hi>now it was expected they ſhould ſettle the Kingdome without the King, and not diſſert thoſe valiant men who had engaged for them be<g ref="char:EOLhyphen"/>yond all hopes of Retreat, and would never forſake the Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="11" facs="tcp:165337:8"/> unleſſe the Parliament forſooke them firſt.</hi> And during the whole debate, the Armies party often taunted them that ſpake for farther Addreſſes, calling them <hi>the Kings party in the Commons Houſe:</hi> and when they were ready for the queſtion, <hi>Cromwell</hi> brought up the Reare: ſaying, <hi>It was now expected the Parliament ſhould governe the Kingdome by their owne power and reſolutions, and not teach the people to expect ſafety from a man whoſe heart God had hardned. That thoſe men that had hitherto defended the Parliament, would de<g ref="char:EOLhyphen"/>fend them herein againſt all oppoſition, Teach them not by neg<g ref="char:EOLhyphen"/>lecting the Kingdomes ſafety, to thinke themſelves betrayed: and left to the malice of an irreconcilable enemy, whom they have ſubdued for your ſake, and are like to find his future Government inſupportable, and full of revenge: leſt deſpaire teach them to ſeeke their ſafety by other means then by adhering to you: and how deſtructive ſuch a reſolution in them will be to you all, I trem<g ref="char:EOLhyphen"/>ble to think, and leave you to judge. With which words he conclu<g ref="char:EOLhyphen"/>ded, laying his hand upon his Sword, and putting on as ſterne a vizard of terror, as ſuch a face could fall into. You ſee now with what bridle they turne and rule the Houſe, they can deliver the ſence of the Army for Addreſſes to the King, and againſt Addreſſes; and with the winde of their Breaths, make the Wea<g ref="char:EOLhyphen"/>ther-cock ſit which way they pleaſe: Not long after, in a thin Houſe, and at an unſeaſonable time of the day, it was moved,</hi> that a letter might be forthwith ſent to the Generall, to ſend a party of Foot to Garriſon <hi>White-hall,</hi> and a party of Horſe to Garriſon the <hi>Mewes. The Lords concurrence not deſired, and the letters immediately ſent. But before this Vote paſſed, divers Forces were upon their march neere the town, and came to</hi> White-Hall <hi>next morning by</hi> 8. <hi>of the clock: for this ſubſequent Vote did but colour and ratifie what the Army had formerly reſolved and put in execution. As ſoon as</hi> White-Hall <hi>was Garriſoned, that very day the Army ſent a Declaration to the Commons,</hi> thanking them for their foure Votes againſt the King, and promiſing to live and die with them in defence of them againſt all opponents. <hi>The Lords had debated hotly up<g ref="char:EOLhyphen"/>on theſe Votes, inſomuch that it was</hi> 10. <hi>Lords to</hi> 10. <hi>The bal<g ref="char:EOLhyphen"/>lance inclining to neither ſide, untill the unexpected Garriſoning</hi>
+               <pb n="12" facs="tcp:165337:9"/> of <hi>White-Hall</hi> and the <hi>Mewes,</hi> and the ſaid Declaration or Engagement of the Army to the Commons turned the ſcales; and then Neceſſity (which neither knowes Law nor Reaſon) prevailed with them to paſſe thoſe Votes three or forre dayes after, (that both Lords and Commons might draw in one equall yoak) the Army was pleaſed to give <hi>them</hi> thanks alſo. Theſe foure Votes troubled the whole Kingdome, and filled mens mindes with ſuſpition, what new forme of Government the Authors of them would ſet up: and every mans mind preſaged theſe Grandees deſired a <hi>new War,</hi> for upholding this Army, and their owne power, and to colour their <hi>raiſing money,</hi> which they ſhare amongſt the Army and themſelves: and every man now laid the project of a new Warre at their doore, and it now appeared to eve<g ref="char:EOLhyphen"/>ry intelligent man, that their Impeachings of divers Members and Citizens for endeavouring a new Warre, (when they did but arme in their owne defence againſt the printed threats and menaces of the Army then upon their march towards <hi>London</hi>) was done by way of prevention onely: it having alwayes been an impudent policy of this Faction, <hi>To accuſe other men of thoſe crimes which themſelves onely had or would commit, and thereby to amuſe the people.</hi> But ſuppoſe the Houſes had been free at the paſſing the ſaid four Votes? <hi>Sapientis eſt mutare conſilium,</hi> Wiſe men muſt vary their counſels according to emergent occaſions and circumſtan<g ref="char:EOLhyphen"/>ces. The heavy Taxes and Free-quarter of the Army, with their inſolent carriage in mens houſes, giving out, <hi>They had conquered the Kingdome:</hi> their turning their Councel of War into a Court of Judicature, contrary to the Lawes of the Land, but principally their courting and cheating all the in<g ref="char:EOLhyphen"/>tereſts of the Kingdome: their committing open adultery with the Kings Intereſt in order to Peace, and then caſting it off upon private diſlike, (as hath been already ſaid in the third Obſervation) had enraged the whole Kingdome (even the beſt affected, and moſt conſtant) and made them deſirous of a <hi>Perſonall Treaty,</hi> (to which the Armies Propoſals gave the riſe) and of their disbanding: Without which, either there can be no Peace, or we ſhall ſuffer all the diſcommodi<g ref="char:EOLhyphen"/>ties
+<pb n="12" facs="tcp:165337:9"/> of Warre in time of Peace; <hi>Mars</hi> is a good Souldier but a bad Magiſtrate; and a military Government the worſt of all others. As for the Declaration of Parliament againſt the King, <hi>ſhewing the grounds and reaſons of the ſaid</hi> 4 <hi>Votes,</hi> all men know they gave no ſatisfaction to the people; and the weakneſſe, falſhood, and abſurdities thereof hath been ſufficiently laid open by many good pens.</p>
+            <p>Object. 2.<note place="margin">Rem. p. 12, 13.</note> 
+               <hi>That the Lords cloſed readily with all the deſires of the City Malignants, the Prince, and all the Parliaments Enemies, going before the Commons, and haling them after: and when at any thing towards the Treaty, the Commons made ſome ſticke, then clamo<g ref="char:EOLhyphen"/>rous Petitions from the City came thicke, with menaces inſinuated; debauched Reformadoes, desperate Cavaliers, faithfull Members driven out of Towne,</hi> &amp;c. <hi>We conceive at this time the Judgment of Parliament was not with due and former freedome.</hi>
+            </p>
+            <p>
+               <hi>Anſwer</hi> 2. Here is a cauſleſſe quarrell picked againſt the Lords, City, and Reformadoes; againſt the Lords, in order to lay by the King, againſt the City for being rich, and a<g ref="char:EOLhyphen"/>gainſt the Reformadoes for being valiant, and no Hypo<g ref="char:EOLhyphen"/>crites; the Petitioners for a Treaty for Peace never petitio<g ref="char:EOLhyphen"/>ned againſt the Fundamentall Government, and Lawes of the Land; nor againſt any known Priviledge of Parliament; nor in a peremptory manner, as the Petitioners, 11. <hi>Septemb.</hi> (countenanced in this <hi>Remonſt: p.</hi> 69.) did; nor did they ſend any inſolent Remonſtrance to the Houſe, or uſe any menaces either inſinuated, or open; as the Army and their Adhe<g ref="char:EOLhyphen"/>rents uſually doe; nor were any faithful Members driven out of Towne; politique Fugitives have heretofore run away to the Army, and may doe againe upon pretended feares, to carry on their deſigne; and to colour the open violence, and ſecret conſpiracies they have uſed, or meane to uſe againſt the lives of their Opponents. I wiſh theſe titular Godly, faithfull, Honeſt men, would as much abhorre the profi<g ref="char:EOLhyphen"/>table Art of Lying and Slandering, as they doe the unprofi<g ref="char:EOLhyphen"/>table Vice of Swearing and Curſing: But this is to take a Schiſmatick out of a Schiſmatick, an Antimonarchiſt out of an Antimonarchiſt, and an Independent out of an Indepen<g ref="char:EOLhyphen"/>dent
+<pb n="14" facs="tcp:165337:10"/> it is to take his definition from him, as much as to de<g ref="char:EOLhyphen"/>ny a man to be <hi>animal viſibile:</hi> in this objection I can more clearly foreſee a ſecond force comming from the Army up<g ref="char:EOLhyphen"/>on the Houſes, then <hi>Lilly</hi> (with all his fantaſticall ſchemes) can prognoſticate faire or foule weather, good or bad luck. Were the Houſes free when Sir <hi>Tho: Fairfax</hi> threatned to make ſome of the Members Priſoners of Warre, and trie them by a Councell of Warre, onely for voting, <hi>I,</hi> and <hi>No;</hi> according to their conſciences? when he marched in ho<g ref="char:EOLhyphen"/>ſtile manner againſt the Houſes and City, and really frighted away many honeſt Members? when he ſet his owne Guards upon the Houſes? when the Armies faction in the Houſe threatned the diſſenting Members with the Army, and the longeſt ſword? if they were free then, they were not free during the agitation of this Perſonall Treaty.</p>
+            <p>But let us now examine the principall <hi>Propoſitions for ſetling the Kingdomes peace and ſafety,</hi> as they are contained in this per<g ref="char:EOLhyphen"/>plexed, confuſed, long-winded <hi>Remonſtrance,</hi> and then open your underſtanding with ſome Obſervations upon them.</p>
+            <p>The chief Propoſitions of this Remonſtrance are the ſame in effect with thoſe Propoſitions ſet on foot in the Army by the Levelling party there, in a printed Book, called, <hi>[The Agreement of the People]</hi> which were diſavowed by the Generall in his Let<g ref="char:EOLhyphen"/>ter to the Houſe: and ſome of the Levellers were condemned by a Councell of Warre, <hi>as ſeditious and mutinous Perſons for promoting them.</hi>
+            </p>
+            <p>The firſt Propoſition is, <hi>That the Houſe would forbeare any far<g ref="char:EOLhyphen"/>ther proceeding in the Treaty with the King, and to returne to the Votes [for no more Addreſſes to Him] and to ſettle the Kingdome without and against Him, upon ſuch grounds as the ſaid Remon<g ref="char:EOLhyphen"/>ſtrance doth lay downe.</hi>
+            </p>
+            <p n="1">1. <hi>Obſervation.</hi> After the Houſes are ingaged paſt all retreat, and the eyes of all Chriſtendome upon them, they enjoyne them to breake off the Treaty contrary to their faith and honour engaged: when the Treaty is ſo neare a concluſion
+<pb n="15" facs="tcp:165337:10"/> that we ſhall ſuddenly receive the Kings Conceſſions? or have a juſt ground to ſettle the Kingdome againſt Him with<g ref="char:EOLhyphen"/>out breach of faith. Let us now ſee what foundations of ſetlement theſe new States-men lay downe.</p>
+            <p n="2">2. Propoſition. <hi>That the King may be brought to Juſtice for the Treaſon, Bloud and miſchief he is guilty of.</hi>
+            </p>
+            <p n="2">2. <hi>Obſer.</hi> The Parliament in their ſeverall Declarations, and in their Commiſſions to their Generalls alwaies accuſed the Kings evil Counſellours of theſe crimes, and not the King; following therein the civility and policy of our Lawes; and declared Warre onely againſt them, not againſt Him; know<g ref="char:EOLhyphen"/>ing it had been <hi>High Treaſon</hi> by all our Lawes <hi>to warre againſt His Perſon, Stat.</hi> 25 <hi>Edw.</hi> 3. And I challenge all the Anti<g ref="char:EOLhyphen"/>monarchicall tribe to ſhew me one Law or Stat. to the con<g ref="char:EOLhyphen"/>trary, or to ſhew me any one preſident in the Scriptures of any King of <hi>Juda</hi> or <hi>Iſrael</hi> depoſed or put to death upon Triall by his people for miſgovernment, or any King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſo dealt with ſince the Conqueſt. <hi>Rich.</hi> 2. <hi>Ed.</hi> 2. &amp; <hi>Hen.</hi> 6. were articled againſt and Depoſed, or forced to Depoſe themſelves in Parliament, but thoſe Parliaments were not free Parliaments (being packed and overawed by ambitious Princes of the bloud, with Souldiers) and therefore this can<g ref="char:EOLhyphen"/>not be imputed to the People. And the King, being by our Lawes, <hi>ſupreame Governour in all Cauſes and over all Perſons;</hi> hath no Superiour who can call Him to account; otherwiſe you muſt proceed <hi>in infinitum:</hi> If you will ſay the People or their Repreſentative ſhall call Him to account, who ſhall call them to account? Parliaments (for ought I ſee) being as ſubject to corruption as Kings. Beſides, you open a wide gap for any ambitious Prince of the bloud to make himſelf popular by ſcandalizing the preſent Government, (as <hi>Ab<g ref="char:EOLhyphen"/>ſolom</hi> did) and ſo to ſtirre up the People or Parliament againſt the King to make way to the Crowne for himſelfe: and involve the Kingdome in frequent and lingering Civill Wars.</p>
+            <p n="3">3. Prop: <hi>That the Prince and Duke of Yorke may be ſummoned
+<pb n="16" facs="tcp:165337:11"/> to render themſelves,</hi> &amp;c. <hi>if they doe not, that then they may be de<g ref="char:EOLhyphen"/>clared incapable of Government,</hi> &amp;c. <hi>and as Enemies and Traytors to die without mercy if afterwards found in this Kingdome: if they render themſelves, the Prince for his Capitall Delinquency to be pro<g ref="char:EOLhyphen"/>ceeded againſt in juſtice. And the Duke as he ſhall give ſatiſ<g ref="char:EOLhyphen"/>faction,</hi> &amp;c.</p>
+            <p n="3">3. <hi>Obſerv.</hi> This is to lay by the King and His Poſterity, con<g ref="char:EOLhyphen"/>trary to many Declarations and Engagements of the Parlia<g ref="char:EOLhyphen"/>ment, and to enforce the Prince to caſt himſelfe into the Armes of the <hi>French,</hi> or ſome other his Allies, Papiſts, or others for ſuccour upon ſuch tearmes of diſadvantage as they (working upon his neceſſity) ſhall put upon him, to the prejudice of theſe Realmes, his owne Religion, in his Match, or otherwiſe; and to compell him to bring an In<g ref="char:EOLhyphen"/>vaſion upon the Land, to aſſert his owne and the common Cauſe of Kings, controverted in this example; and ſo turn our Epiſcopall warre, into a Monarchicall warre; which will draw a confluence of all the looſe Souldiery of Chri<g ref="char:EOLhyphen"/>ſtendome to ſeek imployment here, and bring the calamities of <hi>Germany</hi> upon us.</p>
+            <p n="4">4. Prop: <hi>That a period be ſet to this Parliament,</hi> &amp;c.</p>
+            <p n="4">4. <hi>Obſerv:</hi> I wiſh a period, ſo as this pragmaticall Army be firſt Disbanded, otherwiſe they acknowledging no King, and their Maſters the Parliament being diſſolved, the King<g ref="char:EOLhyphen"/>dome will either be left under the government of the Army, or they will over-power all Elections, and ſet up a Mock-Parliament of their owne creation, whoſe Authority ſhall depend upon their Sword, and then the ſaid Parliament ſhall ſet the ſtamp of their Authority upon the Army, and be<g ref="char:EOLhyphen"/>tween both, the Kingdome be ſawed in pieces.</p>
+            <p n="5">5. Prop: <hi>That no King be hereafter admitted but upon the Ele<g ref="char:EOLhyphen"/>ction of the People; by their Repreſentatives.</hi>
+            </p>
+            <p n="5">5. <hi>Anſwer.</hi> They will firſt have a Parliament of their owne
+<pb n="17" facs="tcp:165337:11"/> making, as aforeſaid, and then this Parliament ſhall have a <hi>Conge d'eſtlier,</hi> or leave to chuſe a King of the Armies nomi<g ref="char:EOLhyphen"/>nating: whether they will vouchſafe to abuſe the infancy of the Duke of <hi>Glouceſter,</hi> &amp; make him their property until they have had time to ſettle their Utopian Government, to root out all Opponents, to fill all Places of power and profit with their owne Creatures, to breake the Peoples ſpirits with a cu<g ref="char:EOLhyphen"/>ſtomary Bondage, to diſ-arme and impoveriſh them, and reduce them to the heartleſſe condition of French Peaſants; to ſettle forraign Leagues and Correſpondencies, and then lay him to ſleep with his Fathers? Or whether they will Elect King <hi>Nol,</hi> for our Soveraigne? (whoſe Noſe is clad in Purple already) God knowes. But he that knowes any thing, knowes the danger of Elective Kingdoms, liable to Faction and Civill Warres amongſt Competitors upon the death of every King, let the miſerable examples of the <hi>German Empire, Poland,</hi> the <hi>old Roman Empire,</hi> and others witneſſe.</p>
+            <p n="6">6. Prop: <hi>Theſe things to be declared and provided by this Par<g ref="char:EOLhyphen"/>liament, or by the Authority of the Commons therein, and all people to ſubſcribe; nor any to be capable of any benefit by this Agreement who ſhall not conſent and ſubſcribe.</hi>
+            </p>
+            <p n="6">6. <hi>Obſerv:</hi> Here you ſee the Lords and King (being 2 of the 3 Eſtates, whereof our Parliaments are compounded by the fundamentall Lawes of the Land) ſtrooke out, to the utter ſubverſion of Parliaments, and all men enjoyned to aſſent and ſubſcribe to their owne wrong under a penalty, the conſequence whereof doth not yet appeare.</p>
+            <p>
+               <hi>Theſe things</hi> (the <hi>Remonſtrance</hi> ſaith) <hi>are of vaſt concernment to all publique Intereſt, not onely in this Kingdome, but neighbour Na<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p n="7">7. <hi>Obſerv:</hi> Whether this be ſpoken to <hi>Scotland</hi> and <hi>Ireland</hi> onely, or to all neighbour Nations? as if theſe men had ſome correſpondencies in their Dominions, to make this Antimonarchicall, popular diſeaſe, infective and diffuſive
+<pb n="18" facs="tcp:165337:12"/> to them, thereby to divert them by Wars at home to look over upon us, God knowes: but it is very likely to ſtir up the jealouſies of Forraign Princes, to quench the fire in their neighbours houſe, leſt the flame catch hold of their own.</p>
+            <p>
+               <note place="margin">1 Conſequence of the ſaid Pro<g ref="char:EOLhyphen"/>poſitions.</note>Theſe Propoſitions tend to the utter ſubverſion of all the Fun<g ref="char:EOLhyphen"/>damentall Government, and Lawes of this Land, and the de<g ref="char:EOLhyphen"/>ſtruction of Parliaments, and will bring ſuch an Anarchy and confuſion upon us, as will continue a War in our Bowels, during the life of this King, and His Poſterity; whereby we ſhall be enforced to keep up and augment this Army, and to entaile the Commands and Offices therein, upon the Grandees of the Army, their Sonnes and Adherents from Generation to Gene<g ref="char:EOLhyphen"/>ration: and make a home Warre the only trade amongſt us.</p>
+            <p n="2">2. <hi>Conſequence.</hi> The Army (by puutting the Parliament upon it, to be the Authors and Actors of theſe miſeries to their Country) will make them the common ſcorne and hatred of all the world, and may then lay by the Parliament with applauſe of all men, glad of the revenge, and then Governe by the Sword. It is a ſure rule in State, <hi>that when great men put their Miniſters upon actions of publique hatred, they prepare them for deſtruction.</hi>
+            </p>
+            <p n="3">3. <hi>Conſideration.</hi> The Parliaments <hi>Declarations,</hi> the <hi>Laws</hi> of the <hi>Land,</hi> the <hi>Oaths</hi> of <hi>Allegeance,</hi> and <hi>Supremacy,</hi> and our <hi>Nationall Covenant</hi> do all cry out to the Parliament to oppoſe theſe deſtroying <hi>Propoſitions.</hi>
+            </p>
+            <p>The <hi>Declaration</hi> 26 <hi>May</hi> 1642. ſaith, <hi>Their endeavours have been for maintenance of the Proteſtant Religion, the Kings Juſt Pre<g ref="char:EOLhyphen"/>rogatives, The Lawes and Liberties of the Land, and Priviledges of Parliament, wherein they would perſiſt, though they ſhould periſh in the work.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Part. Exact Collections, pag. 618. 632.</note>The like <hi>Declaration</hi> paſſed, <hi>June</hi> 2. 1642. upon the Propo<g ref="char:EOLhyphen"/>ſitions for <hi>Money</hi> and <hi>Plate.</hi>
+            </p>
+            <p n="42">42. <hi>Edw.</hi> 3. The Commons in Parliament ſay, they cannot aſſent to any thing in Parliament to the Diſheriſon of the King and His Crown, whereto they are Sworne. The Petition of Right, 3 <hi>Caroli,</hi> The Commons in Parliament declare, <hi>That they neither meant, nor had power to hurt the Kings Prerogative,</hi> with infinite more Authorities, wherewith our Law-books are full.</p>
+            <pb n="19" facs="tcp:165337:12"/>
+            <p>By the <hi>Oathes</hi> of <hi>Allegeance</hi> and <hi>Supremacy</hi> (which every <hi>Member</hi> taketh before he ſits in <hi>Parliament</hi>) they are bound to defend and maintaine <hi>His Majeſties Royall Perſon,</hi> with all the <hi>Prerogatives, Priviledges,</hi> and <hi>Preheminencies</hi> belonging, or an<g ref="char:EOLhyphen"/>nexed to the imperiall <hi>Crown.</hi>
+            </p>
+            <p>By the <hi>Solemne League</hi> and <hi>Covenant</hi> we ſwear, with hands lifted up to God, <hi>To maintaine and defend the Kings Perſon and Authority, in the preſervation of Religion, Lawes and Liberties; not to diminiſh his Juſt power and greatneſſe, To defend the Privi<g ref="char:EOLhyphen"/>ledges of Parliament: And to continue all the dayes of their lives in this Covenant againſt all oppoſition whatſoever.</hi> The Proteſtation is to the like effect.</p>
+            <p>But the ſaid <hi>Remonſtrance,</hi> pag. 54, 55, 56, 57. ſaith, <hi>This is only a bare Covenant between party and party, wherein God is a witneſſe only to avenge the breaker and violater thereof.</hi> But let this Caſuiſt in Buff know, that it is not only ſo, but is alſo a promiſ<g ref="char:EOLhyphen"/>ſory Oath made to God: and therefore he is as well a party, as a witneſſe to it. Obſerve here, a high point of inſolency. An in<g ref="char:EOLhyphen"/>terpretation put upon the Parliaments Covenant, by men that (for the moſt part) refuſe to take the <hi>Covenant.</hi>
+            </p>
+            <p>Let not the Independent Members pleaſe themſelves in ſeeing the Presbyterians overthrowne, ſince their turn is like to be next:<note place="margin">4 <hi>Conſidera<g ref="char:EOLhyphen"/>tion.</hi>
+               </note> what malice and deſigne now lyes upon the Presbyterian: a co<g ref="char:EOLhyphen"/>vetous deſire to ſhare with them in their rich gaines, will here<g ref="char:EOLhyphen"/>after lye upon the Independents. The vaſt deſires and expences of this Army are like a conſuming fire: He that fares beſt, ſhall be but the laſt fuell to it.</p>
+            <p>To conclude,<note place="margin">5 <hi>Conſidera<g ref="char:EOLhyphen"/>tion.</hi>
+               </note> There is a deſperate party intermingled amongſt the whole Maſſe of this Common-wealth, which hath perpetra<g ref="char:EOLhyphen"/>ted all manner of crimes from Blaſphemy, and high Treaſon, to Treſpas. They have violated all Lawes, <hi>Divine</hi> and <hi>Humane,</hi> and all <hi>Government</hi> and <hi>Magiſtracy:</hi> They have ſo farre cheated and abuſed the <hi>King,</hi> and <hi>His Iſſue,</hi> that like <hi>Caine,</hi> they think their ſinnes greater then can be forgiven: they have ſo far injured, and cheated all the Intereſts and People of the Land, that with <hi>Caine</hi> they thinke that every man will ſlay them, and deſpaire of recon<g ref="char:EOLhyphen"/>ciliation: and therefore place all their hopes in bringing them to ſlavery and confuſion. They hate all honeſt men, becauſe they
+<pb n="20" facs="tcp:165337:13"/> feare them as witneſſes and proſecutors to bring them to judge<g ref="char:EOLhyphen"/>ment hereafter. And therefore labour to ruine and extirpate them, eſpecially out of the Parliament, under the notion of the <hi>Kings Party.</hi> Wherefore (dear Country-men) eſpecially you Lords and Gentlemen of the Parliament) call to mind your duty you owe to your God, your King, your Country, your Wives, &amp; Children; call to mind Religion, Laws and Liberties, and cry out with one voice againſt theſe innovators (as your fore-fathers did long ſince in a Parliament) <hi>Nolumus Leges Angliae mutare;</hi> we will not change our good Laws. Remember your <hi>Oathes</hi> of <hi>Allegeance, Supremacy, Nationall Covenant, &amp; Proteſtation,</hi> for which your ſouls are morgaged to a juſt and ſevere Creditor. And learne to fear God, and not Man. We owe a death to God and Nature, and muſt aſſuredly pay this debt: why not now before we taſte of miſery and ſlavery? why not in an honourable defence of our Country, rather then in a baſe deſertion of it? He that feares death, dies as ſoone as he that contemnes death; and no man is worthy of life, but he that ſcornes life, when his Country ſtands in need of it.</p>
+            <q>
+               <l>Ingens crede nefas animam praeferre pudori:</l>
+               <l>Et propter vitam, vivendi perdere cauſas.</l>
+               <l>Mors &amp; fugacem perſequitur virum, nec parcit</l>
+               <l>Imbellis juventae poplitibus, timidoque tergo.</l>
+            </q>
+            <p>Death ſtrikes a coward in the back, as ſoone as a valiant man in the face.</p>
+            <p>
+               <hi>Good God, who broughteſt all things out of</hi> Chaos <hi>into light, giving them order, forme, and beauty: ſuffer not the Nimrods of our times to reduce all things back againe into</hi> Chaos. <hi>Suffer them not to pull downe</hi> Sion, <hi>and build up</hi> Babel. <hi>Oh heavenly</hi> Daedalus, <hi>lend us thy Clue, to lead us out of this Labyrinth.</hi>
+            </p>
+            <p>The ſumme of all theſe Obſervations is this:</p>
+            <p>In the <hi>Remonſtrance,</hi> 20 <hi>Novemb.</hi> 1648. They indeavour to ſub<g ref="char:EOLhyphen"/>vert the King, His Poſterity and the Kingdome.</p>
+            <p>In the 2, 3, and 4. Article of their Impeachment againſt the 11. Members. They profeſſe themſelves diſobliged from any farther engagement in the Parliaments ſervice: and have and doe act according to this profeſſion.</p>
+            <p>
+               <hi>Quaere.</hi> Who theſe men ſerve and what judgement the law gives upon them?</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:165337:13"/>
+            <head>
+               <hi>PROLEGOMENA,</hi> OR, Selected Obſervations, explaining the generall drift of the <hi>Remonſtrance;</hi> and therfore ſet apart by themſelves.</head>
+            <p>MAjor <hi>White</hi> ſaid in the Councell of the Army at Putney, <hi>That ſhortly there ſhould be no viſible Authority left in the Kingdome but the power of the Sword.</hi> Though this was then in deſigne, yet becauſe he vented it unſeaſonably, before it was ripe for practiſe, he was expelled the Army; but ſoon taken in again, they being unwilling to loſe a man of their owne principles.</p>
+            <p>9. <hi>March.</hi> The Engagement of the fugitive Members [to live &amp; die with the Army] was ſent from the Lords to be approved by the Commons. Whereupon, <hi>Derby<g ref="char:EOLhyphen"/>houſe Projects, p.</hi> 7. (written by an Officer of the Army) ſaith, <hi>This was done to trie the temper of the Houſe, and if they had not approved it, they reſolved to flie to their Arms and make a New Charge againſt their Oppoſers; for they acknowledge amongst themſelves, That they rule by Power onely, and that the Houſe of Commons is no longer theirs then they over-awe them; and that they feare the Criticall day will come, which will diſcover the Parliament to be no longer theirs, then while they have a force upon it.</hi>
+            </p>
+            <pb facs="tcp:165337:14"/>
+            <p>Obſerve, that upon theſe grounds the preſent deſigne of this <hi>Remonſtrance</hi> is, To make a new Charge, and diſſolve this Parliament, and to make a new Parliament meerly popular, without King, or Lords; conſiſting on<g ref="char:EOLhyphen"/>ly of a Repreſentative of the People, of their owne chu<g ref="char:EOLhyphen"/>ſing; for, the Army acknowledgeth none but them<g ref="char:EOLhyphen"/>ſelves and their Faction, to be <hi>the People:</hi> all other men are but <hi>Amalekites, or the ſeed of the curſed,</hi> to be rooted out, that themſelves <hi>the ſeed of the Godly, the Faithfull</hi> onely may inherit this good Land. And this New Par<g ref="char:EOLhyphen"/>liament ſhall be accountable to the People, that is, to the Army. Compare the Remonſtr: and the Declara<g ref="char:EOLhyphen"/>tion of the Army following it. So we ſhall be govern'd arbitrarily by a Popular Parliament protected and over<g ref="char:EOLhyphen"/>ruled by a ſtanding Army: the Lawes (which depend wholly upon the Authority of the Crowne, for their de<g ref="char:EOLhyphen"/>fence, interpretation, and execution) being firſt plucked up by the roots: in the pulling downe of Monarchy, look about you Engliſhmen; you have fought for Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Liberties, untill you are cheated of them all.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:165337:14"/>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:165337:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165337:15"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165337:16"/>
+            <pb facs="tcp:165337:16"/>
+            <p>
+               <figure>
+                  <head>THE ROYALL OAKE OF BRITTAYNE</head>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
